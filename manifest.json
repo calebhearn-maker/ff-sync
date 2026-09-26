@@ -1,0 +1,41 @@
+{
+    "season":  2026,
+    "format":  "ffsync/1",
+    "current":  {
+                    "theleague":  3,
+                    "southofphilly":  3
+                },
+    "files":  {
+                  "code.bin":  {
+                                   "created":  "2026-09-24T10:30:48Z",
+                                   "sha256":  "d5db482ffe00a4f1ae78b40cc106506c866e901801a888af4be66b15cf8fc7f0",
+                                   "bytes":  46740
+                               },
+                  "wk01.bin":  {
+                                   "created":  "2026-09-22T23:24:41Z",
+                                   "sha256":  "d9b81124820972bf95d359761d1505577b963eaa735672b620fa2e146a407928",
+                                   "bytes":  2927460
+                               },
+                  "wk02.bin":  {
+                                   "created":  "2026-09-26T12:50:47Z",
+                                   "sha256":  "56ed9e1a27c2ee7e6b13b5ba22ad3657d62f6fe56253076592df0b4004fa7aff",
+                                   "bytes":  3046948
+                               },
+                  "ffsync.py":  {
+                                    "created":  "2026-09-23T00:20:21Z",
+                                    "sha256":  "90fb4be3cddbd59a8133182655b9d6c58ec9d862aeacc74613551565363467d1",
+                                    "bytes":  9167
+                                },
+                  "snap.bin":  {
+                                   "created":  "2026-09-26T12:50:47Z",
+                                   "sha256":  "9d4e36b5aa7e57ac83a9a62671084198594631c3257aaca06684f0944f61a022",
+                                   "bytes":  3180900
+                               },
+                  "out.bin":  {
+                                  "created":  "2026-09-26T12:50:47Z",
+                                  "sha256":  "fec9d8e6c90d50347667ffdfce964bdc520e527cb866352253d9ec1e9c26ec7f",
+                                  "bytes":  96404
+                              }
+              },
+    "updated":  "2026-09-26T12:50:47Z"
+}
