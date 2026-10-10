@@ -1,0 +1,46 @@
+{
+    "season":  2026,
+    "format":  "ffsync/1",
+    "current":  {
+                    "theleague":  5,
+                    "southofphilly":  5
+                },
+    "files":  {
+                  "wk03.bin":  {
+                                   "created":  "2026-10-05T22:15:43Z",
+                                   "sha256":  "b5358029bcd13d0e229fb774df3afc6598c3ac91fec93ff32045cfe5e24da76b",
+                                   "bytes":  3365556
+                               },
+                  "wk01.bin":  {
+                                   "created":  "2026-09-22T23:24:41Z",
+                                   "sha256":  "d9b81124820972bf95d359761d1505577b963eaa735672b620fa2e146a407928",
+                                   "bytes":  2927460
+                               },
+                  "wk02.bin":  {
+                                   "created":  "2026-09-28T22:15:53Z",
+                                   "sha256":  "ffe2fdc6b9a71e18c68393f88a7d6b4763cfa8ccc290df4ef7b6b0a8efecedce",
+                                   "bytes":  3100164
+                               },
+                  "snap.bin":  {
+                                   "created":  "2026-10-10T12:50:52Z",
+                                   "sha256":  "82d1504954c337f083d1ddc23cf891fb9ca9e1908a0582b93554ddba1e29f2f3",
+                                   "bytes":  3716596
+                               },
+                  "out.bin":  {
+                                  "created":  "2026-10-10T12:50:52Z",
+                                  "sha256":  "0425f7d21493e0926aa58f85d780e836e8f33671b001f5008408347d9263a340",
+                                  "bytes":  97044
+                              },
+                  "wk04.bin":  {
+                                   "created":  "2026-10-10T12:50:52Z",
+                                   "sha256":  "72fdb7408bf24de37b4fcf70bcd6be49e97ec7a1b5499ccfbe22a77c27aed152",
+                                   "bytes":  3568724
+                               },
+                  "out.json":  {
+                                   "created":  "2026-10-10T12:50:52Z",
+                                   "sha256":  "ac0fb53ee2a638e8407086e2f04d253137bbc4770b99ab3e282ec1144cba7c35",
+                                   "bytes":  129536
+                               }
+              },
+    "updated":  "2026-10-10T12:50:52Z"
+}
