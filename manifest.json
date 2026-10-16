@@ -1,0 +1,51 @@
+{
+    "season":  2026,
+    "format":  "ffsync/1",
+    "current":  {
+                    "theleague":  6,
+                    "southofphilly":  6
+                },
+    "files":  {
+                  "wk03.bin":  {
+                                   "created":  "2026-10-05T22:15:43Z",
+                                   "sha256":  "b5358029bcd13d0e229fb774df3afc6598c3ac91fec93ff32045cfe5e24da76b",
+                                   "bytes":  3365556
+                               },
+                  "wk04.bin":  {
+                                   "created":  "2026-10-12T22:15:51Z",
+                                   "sha256":  "2680d403de35f5d8fad6a03c301d12bd234c93405c4a6d3c68dc5fa50dd6dab9",
+                                   "bytes":  3611428
+                               },
+                  "wk01.bin":  {
+                                   "created":  "2026-09-22T23:24:41Z",
+                                   "sha256":  "d9b81124820972bf95d359761d1505577b963eaa735672b620fa2e146a407928",
+                                   "bytes":  2927460
+                               },
+                  "wk02.bin":  {
+                                   "created":  "2026-09-28T22:15:53Z",
+                                   "sha256":  "ffe2fdc6b9a71e18c68393f88a7d6b4763cfa8ccc290df4ef7b6b0a8efecedce",
+                                   "bytes":  3100164
+                               },
+                  "snap.bin":  {
+                                   "created":  "2026-10-16T10:31:02Z",
+                                   "sha256":  "70b1c1fb894279582d1d51d3d629443ce9d5246c07e5f63ad499190449ebf83c",
+                                   "bytes":  3946308
+                               },
+                  "out.bin":  {
+                                  "created":  "2026-10-16T10:31:02Z",
+                                  "sha256":  "7d1c2d1f1e181b91b8b2a874d4b934532bbed8402fe980245d8e83e383539522",
+                                  "bytes":  99316
+                              },
+                  "wk05.bin":  {
+                                   "created":  "2026-10-16T10:31:02Z",
+                                   "sha256":  "69f9c6b3ee84413086ad0087dc2285c9884398a4e79619d1e326a15e6744af75",
+                                   "bytes":  3778596
+                               },
+                  "out.json":  {
+                                   "created":  "2026-10-16T10:31:02Z",
+                                   "sha256":  "ec6f7b77d0278f80d473572aac06cd6c29e0c8714ebdf06c10b5af0bac409017",
+                                   "bytes":  132568
+                               }
+              },
+    "updated":  "2026-10-16T10:31:02Z"
+}
